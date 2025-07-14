@@ -5,7 +5,6 @@ import numpy as np
 from typing import Dict, List
 import json
 from enum import Enum
-import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
