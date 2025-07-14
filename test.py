@@ -4,7 +4,6 @@ from PIL import Image
 import os
 import json
 from datetime import datetime           
-from pyvis.network import Network
 import time
 import base64
 from io import BytesIO
