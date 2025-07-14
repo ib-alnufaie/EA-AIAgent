@@ -7,7 +7,6 @@ import json
 from enum import Enum
 import matplotlib.pyplot as plt
 import seaborn as sns
-import networkx as nx          
 from pyvis.network import Network
 import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
