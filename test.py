@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from PIL import Image
-import pytesseract
 import os
 import json
 from datetime import datetime           
